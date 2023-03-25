@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Dancing+Script&family=Edu+NSW+ACT+Foundation:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Edu+NSW+ACT+Foundation:wght@400;500&display=swap');
+.box1{
+    width: 100%;
+    margin-left: 15px;
+}
+body{
+    background-image: url("./image/cinema3.jpg");
+    background-size: cover;
+    
+}
+.a{
+    background-color: rgba(243, 229, 26, 0.403);
+    width: 20%;
+    border: rgba(233, 22, 22, 0.716) 10px solid;
+    height: 446px;
+    float: left;
+    position:relative ;
+    
+}
+img{
+   width: 90%;
+   height:250px ;
+   margin-left: 20px ;
+
+}
+.a2{
+    margin-left:98px ;
+}
+.a3{
+    margin-left:135px ;
+
+}
+.a4{
+    margin-left: 135px;
+
+}
+#h1{
+    text-align: center;
+    color: aliceblue;
+}
+h2{
+    text-align: center;
+    color: bisque;
+    font-family: 'Edu NSW ACT Foundation', cursive;
+
+    
+}
+button{
+    margin-left: 80px;
+    margin-top: -31px;
+    background-color: rgba(250, 249, 250, 0.952);
+    border-radius: 25px;
+
+}
+p{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+}
+  
+

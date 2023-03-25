@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Edu+NSW+ACT+Foundation:wght@400;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&family=Edu+NSW+ACT+Foundation:wght@400;500&family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Carter+One&family=Dancing+Script&family=Edu+NSW+ACT+Foundation:wght@400;500&family=Lobster&display=swap');
+.c{
+    width: 31%;
+    height:386px ;
+    background-color:aliceblue ;
+    color: hsl(0, 0%, 2%);
+    border: 10px black solid ;
+    float:left ;
+}
+img{width: 50%;
+    height: 300px;
+    float: left;
+}
+h1{
+    text-align: center;
+    font-family: 'Lobster', cursive;
+    background-color: rgb(106, 232, 224);
+}
+p{
+    font-family: 'Dancing Script', cursive;
+}
+#a1{
+    font-family: 'Edu NSW ACT Foundation', cursive;
+    background-color: rgb(30, 187, 189);
+}
+body{
+    background-color: #381764;
+}
